@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "learn": "apps/learn",
+    "learn-e2e": "apps/learn-e2e"
+  }
 }
